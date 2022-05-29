@@ -13,6 +13,7 @@ This project was coded purely in Python using the VSCode complier. In order to b
 To access the student portals, please login with the roll number and password of any student. These can be found in the database. 
 
 To access the admin portal, please enter the username "admin" and password "admin".
+(In order to change these settings, please enter the new username and password in line 68 in the login.py file.)
 
 In order to create the user details table, please run the file titled "User Details Table.sql" in the MySQL workbench. 
 
